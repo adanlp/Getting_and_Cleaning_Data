@@ -5,8 +5,8 @@
 # UCI - Human Activity Recognition Using Smartphones.
 # 
 # Additional reference:
-# 	Readme.txt
-# 	Codebook.md
+# 	Readme.md
+# 	codebook.md
 #
 
 library(dplyr)
