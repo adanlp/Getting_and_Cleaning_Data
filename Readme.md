@@ -8,12 +8,12 @@ for later analysis. The original dataset comes from
 ### Files
 * run_analysis.R: R Script that performs the followins activities:
 
-	0. Get the data
-	1. Merge the training and the test sets to create one data set
-	2. Extract only the measurements on the mean and standard deviation for each measurement
-	3. Use descriptive activity names to name the activities in the data set
-	4. Appropriately label the data set with descriptive variable names
-	5. Create a second, independent tidy set with the average of each variable for each activity and each subject
+	1. Get the data
+	2. Merge the training and the test sets to create one data set
+	3. Extract only the measurements on the mean and standard deviation for each measurement
+	4. Use descriptive activity names to name the activities in the data set
+	5. Appropriately label the data set with descriptive variable names
+	6. Create a second, independent tidy set with the average of each variable for each activity and each subject
 
 * codebook.md: Description of the variables and the data of this Data Set
 
